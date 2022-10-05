@@ -1,0 +1,291 @@
+
+
+body {
+    background-color: black;
+}
+
+
+img{
+    position:absolute;
+    opacity: 0;
+}
+
+.img-ny{
+    position: absolute;
+    width: 876px;
+    height: 511px;
+    left: 0px;
+    top: -2.14px;
+}
+.img-ri{
+    position: absolute;
+width: 666.77px;
+height: 511.32px;
+left: 856.16px;
+top: 0px;
+}
+
+.img-wa{
+    position: absolute;
+    width: 775px;
+    height: 483px;
+    left: 0px;
+    top: 509.18px;
+}
+
+.img-sing{
+    position: absolute;
+width: 803px;
+height: 471px;
+left: 735.44px;
+top: 509.18px;
+}
+
+.img-1{
+    position: absolute;
+    width: 597.28px;
+    height: 374.01px;
+    left: 24px;
+    top: 566px;
+}
+
+.img-2{
+    position: absolute;
+width: 557.65px;
+height: 371.96px;
+left: 446.22px;
+top: 34.24px;
+
+}
+.img-3{
+    position: absolute;
+width: 568.35px;
+height: 376.56px;
+left: 631px;
+top: 265.22px;
+
+}
+.img-6{
+    position: absolute;
+width: 518.65px;
+height: 374.68px;
+left: 993.35px;
+top: 504px;
+}
+
+.img-4{
+    position: absolute;
+    width: 454.41px;
+    height: 330.19px;
+    left: 1031.06px;
+    top: 34.24px;
+}
+.img-5{
+    position: absolute;
+width: 395.02px;
+height: 491.14px;
+left: 24px;
+top: 34.24px;
+}
+.img-7{
+
+position: absolute;
+width: 427.76px;
+height: 321.18px;
+left: 656px;
+top: 618.83px;
+
+}
+
+.img-8{
+position: absolute;
+width: 303.81px;
+height: 374.41px;
+left: 0px;
+top: 30.27px;
+}
+
+.img-9{
+position: absolute;
+width: 360.86px;
+height: 451.08px;
+left: 540.01px;
+top: 60.92px;
+}
+
+.img-10{
+position: absolute;
+width: 293.27px;
+height: 366.59px;
+left: 303.81px;
+top: 27.08px;
+}
+.img-11{
+position: absolute;
+width: 478.49px;
+height: 318.88px;
+left: 3.51px;
+top: 409.89px;
+}
+.img-12{
+position: absolute;
+width: 551.95px;
+height: 358.04px;
+left: 900.87px;
+top: 19.27px;
+}
+.img-13{
+position: absolute;
+width: 484.2px;
+height: 340.32px;
+left: 713.38px;
+top: 650.46px;
+}
+.img-14{
+position: absolute;
+width: 503.74px;
+height: 360.23px;
+left: 468.58px;
+top: 470.35px;
+}
+.img-15{
+    position: absolute;
+    width: 553.12px;
+    height: 387.95px;
+    left: 958.88px;
+    top: 340.82px;
+}
+.img-16{
+position: absolute;
+width: 314.41px;
+height: 393.19px;
+left: 1197.59px;
+top: 588.81px;
+}
+.img-17{
+position: absolute;
+width: 454.48px;
+height: 302.85px;
+left: 75.53px;
+top: 679.15px;
+}
+.img-18{
+position: absolute;
+width: 356.9px;
+height: 446.13px;
+left: 0px;
+top: 0px;
+}
+.img-19{
+    position: absolute;
+    width: 356.9px;
+    height: 446.13px;
+    left: 356.9px;
+    top: 0px;
+}
+.img-20{
+    position: absolute;
+    width: 356.9px;
+    height: 475.87px;
+    left: 713.81px;
+    top: 0px;
+}
+.img-21{
+    position: absolute;
+    width: 356.9px;
+    height: 446.13px;
+    left: 1070.71px;
+    top: 0px;
+}
+.img-22{
+    position: absolute;
+    width: 620.55px;
+    height: 413.51px;
+    left: 0px;
+    top: 446.13px;
+}
+.img-23{
+position: absolute;
+width: 454.63px;
+height: 548.29px;
+left: 553.69px;
+top: 433.71px;
+}
+.img-24{
+position: absolute;
+width: 498.17px;
+height: 332.11px;
+left: 1013.83px;
+top: 446.13px;
+}
+.img-25{
+    position: absolute;
+    width: 370.22px;
+    height: 493.14px;
+    left: 0px;
+    top: 0px;
+}
+.img-26{
+    position: absolute;
+    width: 372.89px;
+    height: 491px;
+    left: 370.22px;
+    top: 0px;
+}
+.img-27{
+    position: absolute;
+    width: 375.11px;
+    height: 499.66px;
+    left: 743.1px;
+    top: 0px;
+}
+.img-28{
+    position: absolute;
+    width: 361.53px;
+    height: 451.91px;
+    left: 1118.21px;
+    top: 19.55px;
+}
+.img-29{
+position: absolute;
+width: 404.37px;
+height: 505.46px;
+left: 0px;
+top: 453.38px;
+}
+.img-30{
+    position: absolute;
+    width: 556.75px;
+    height: 414.95px;
+    left: 299.46px;
+    top: 519.08px;
+}
+.img-31{
+    position: absolute;
+width: 503.56px;
+height: 310.62px;
+left: 678.88px;
+top: 493.14px;
+}
+.img-32{
+    position: absolute;
+width: 393.17px;
+height: 524.22px;
+left: 1086.57px;
+top: 444px;
+}
+
+
+
+
+
+
+img:hover{
+    opacity: 1;
+}
+
+.icon{
+    top:8px;
+    left:8px;
+    opacity:1;
+}
